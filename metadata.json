@@ -1,0 +1,8 @@
+{
+  "name": "BreachMedics AI",
+  "description": "Instant 60-second isolation protocols and incident containment recovery for compromised accounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
